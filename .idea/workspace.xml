@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58dc10a4-9099-4928-9ca6-0d4374f7c3e2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="58dc10a4-9099-4928-9ca6-0d4374f7c3e2" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -142,12 +140,12 @@
       <option name="presentableId" value="Default" />
       <updated>1526948947759</updated>
       <workItem from="1526948952380" duration="7380000" />
-      <workItem from="1527001612912" duration="8170000" />
+      <workItem from="1527001612912" duration="8496000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15550000" />
+    <option name="totallyTimeSpent" value="15876000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
